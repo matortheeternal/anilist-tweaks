@@ -1,4 +1,4 @@
-# Mator's anilist style tweaks
+# Mator's anilist style tweaks [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/matortheeternal/anilist-tweaks/master/mators%20anilist%20tweaks.user.css)
 
 Just some minor tweaks for things on anilist that have annoyed me or other users.  Nothing special.
 
